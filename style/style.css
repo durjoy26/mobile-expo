@@ -72,3 +72,37 @@ p {
     width: 1040px;
     margin-bottom: 70px;
 }
+.heading p{
+    height: 5px;
+    width: 80px;
+    background-color: orange;
+    border-radius: 10px;
+    margin: 14px auto;
+}
+.heading{
+    text-align: center;
+}
+.r-area img{
+    width: 450px;
+}
+.border-area{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 5px #f8f8f8;
+    margin: 0px 5px 30px 0px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    width: 178px;
+    justify-content: center;
+}
+.border-area img{
+    width: 100px;
+}
+.border-area p{
+    padding-top: 10px;
+    color: #000;
+}
+.border-area .shoe{
+    padding-top: 0px;
+}
